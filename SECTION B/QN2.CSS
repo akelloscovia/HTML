@@ -1,0 +1,16 @@
+.nav-bar ul {
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-bar li {
+    margin-right: 20px;
+  }
+  
+  .nav-bar a {
+    background-color: chartreuse;
+    
+  }
+  
